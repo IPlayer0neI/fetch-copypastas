@@ -22,8 +22,4 @@ dist
 .vscode
 .DS_Store
 
-.index.html
-.all-copypastas.json
-.arknights-copypastas.json
-.dota-2-copypastas.json
-.lol-copypastas.json
+index.html
